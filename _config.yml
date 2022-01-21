@@ -6,7 +6,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'blogpbn'
 email: 'admin@pbn.my.id'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://pbn.us20.list-manage.com/subscribe/post?u=326a71bb4426192ca89d26583&amp;id=0e7227a48c'
 
 include: ["_pages"]
 permalink: /:title
